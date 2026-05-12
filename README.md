@@ -57,6 +57,9 @@ This project demonstrates a complete data pipeline:
 - Weather conditions distribution
 
 ---
+## 📈 Sample Visualization
+
+![Weather Graph](images.png)
 
 ## 🛠️ Tools & Technologies
 
