@@ -50,16 +50,16 @@ This project demonstrates a complete data pipeline:
 ## 📊 Data Visualizations
 
 ### Monthly Temperature
-![Monthly Temperature](./images/monthly_temperature.png)
+![Monthly Temperature](images/monthly_temperature.png)
 
 ### Rainfall Trend
-![Rainfall Trend](./images/rainfall_trend.png)
+![Rainfall Trend](images/rainfall_trend.png)
 
 ### Season Boxplot
-![Season Boxplot](./images/season_boxplot.png)
+![Season Boxplot](images/season_boxplot.png)
 
 ### Weather Condition
-![Weather Condition](./images/weather_condition.png)
+![Weather Condition](images/weather_condition.png)
 ## 🛠️ Tools & Technologies
 
 - **Python** — core language
