@@ -59,7 +59,9 @@ This project demonstrates a complete data pipeline:
 ---
 ## 📈 Sample Visualization
 
-![Weather Graph](images.png)
+## 📈 Sample Visualization
+
+![Weather Graph](images/graph.png)
 
 ## 🛠️ Tools & Technologies
 
