@@ -70,7 +70,6 @@ This project demonstrates a complete data pipeline:
 
 ### Weather Condition Distribution
 ![Weather Conditions](images/weather_condition.png)
-
 ## 🛠️ Tools & Technologies
 
 - **Python** — core language
