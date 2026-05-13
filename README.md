@@ -47,19 +47,18 @@ This project demonstrates a complete data pipeline:
 
 ---
 
-## 📈 Visualizations
+## 📊 Data Visualizations
 
-- Average monthly temperature trend
-- Total monthly precipitation (rainiest months)
-- Temperature distribution by season (boxplot)
-- Average temperature by hour of day
-- Yearly average temperature trend (2020–2025)
-- Weather conditions distribution
-
----
+### Monthly Temperature
 ![Monthly Temperature](./images/monthly_temperature.png)
+
+### Rainfall Trend
 ![Rainfall Trend](./images/rainfall_trend.png)
+
+### Season Boxplot
 ![Season Boxplot](./images/season_boxplot.png)
+
+### Weather Condition
 ![Weather Condition](./images/weather_condition.png)
 ## 🛠️ Tools & Technologies
 
