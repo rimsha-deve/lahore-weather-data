@@ -82,8 +82,8 @@ jupyter notebook weather_analysis.ipynb
 
 ## 🔗 Links
 
-- 📦 Kaggle Dataset: [Lahore Hourly Weather Data 2020-2025](#)
-- 👤 LinkedIn: [Your LinkedIn Profile](#)
+- 📦 Kaggle Dataset: [Lahore Hourly Weather Data 2020-202](https://www.kaggle.com/datasets/maherrimsha/lahore-hourly-weather-data-2020-2025)(#)
+- 👤 LinkedIn: [https://www.linkedin.com/in/rimsha-shaukat-ai/](#)
 
 ---
 
