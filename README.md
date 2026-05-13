@@ -57,19 +57,10 @@ This project demonstrates a complete data pipeline:
 - Weather conditions distribution
 
 ---
-## 📊 Data Visualizations
-
-### Monthly Temperature Trend
-![Monthly Temperature](images/monthly_temperature.png)
-
-### Rainfall Trend Analysis
-![Rainfall Trend](images/rainfall_trend.png)
-
-### Seasonal Temperature Distribution
-![Season Boxplot](images/season_boxplot.png)
-
-### Weather Condition Distribution
-![Weather Conditions](images/weather_condition.png)
+![Monthly Temperature](./images/monthly_temperature.png)
+![Rainfall Trend](./images/rainfall_trend.png)
+![Season Boxplot](./images/season_boxplot.png)
+![Weather Condition](./images/weather_condition.png)
 ## 🛠️ Tools & Technologies
 
 - **Python** — core language
